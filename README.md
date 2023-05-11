@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 | Linguagem   | Ícone  | Logo  |
 |-------------|-------|-------|
-| HTML        | :html5: | ![HTML Logo](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png) |
-| CSS         | :css3: | ![CSS Logo](caminho/para/css-logo.png) |
-| JavaScript  | :javascript: | ![JavaScript Logo](caminho/para/js-logo.png) |
-| PHP         | :php: | ![PHP Logo](caminho/para/php-logo.png) |
+| HTML        | ![HTML Logo](img/html.png) |
+| CSS         | ![CSS Logo](img/css.png) |
+| JavaScript  | ![JavaScript Logo](img/js.png) |
+| JAVA        | ![HTML Logo](img/java.png) |
+| PHP         | ![PHP Logo](img/php.png) |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeberGD&show_icons=true&theme=radical&layout=donut)
 
