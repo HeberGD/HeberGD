@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberGD&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeberGD&show_icons=true&theme=radical&layout=donut)    ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberGD&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeberGD&show_icons=true&theme=radical&layout=donut)   
 
 | HTML                                      | CSS                                      | JavaScript                                      | Java                                      | PHP                                      |
 |-------------------------------------------|------------------------------------------|-------------------------------------------------|-------------------------------------------|------------------------------------------|
