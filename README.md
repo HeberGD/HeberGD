@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|-------------|-------|-------|
-| ![HTML Logo](img/html.png) | ![CSS Logo](img/css.png) | ![JavaScript Logo](img/js.png) | ![HTML Logo](img/java.png) | ![PHP Logo](img/php.png) |
+| HTML                                      | CSS                                      | JavaScript                                      | Java                                      | PHP                                      |
+|-------------------------------------------|------------------------------------------|-------------------------------------------------|-------------------------------------------|------------------------------------------|
+| ![HTML Logo](img/html.png)                | ![CSS Logo](img/css.png)                | ![JavaScript Logo](img/js.png)                 | ![Java Logo](img/java.png)                | ![PHP Logo](img/php.png)                |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeberGD&show_icons=true&theme=radical&layout=donut)
 
