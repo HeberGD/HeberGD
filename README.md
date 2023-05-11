@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Linguagem   | Ícone  |
-|-------------|-------|
-| HTML        | :html5: |
-| CSS         | :css3: |
-| JavaScript  | :javascript: |
-| PHP         | :php: |
-
+| Linguagem   | Ícone  | Logo  |
+|-------------|-------|-------|
+| HTML        | :html5: | ![HTML Logo](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png) |
+| CSS         | :css3: | ![CSS Logo](caminho/para/css-logo.png) |
+| JavaScript  | :javascript: | ![JavaScript Logo](caminho/para/js-logo.png) |
+| PHP         | :php: | ![PHP Logo](caminho/para/php-logo.png) |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeberGD&show_icons=true&theme=radical&layout=donut)
 
