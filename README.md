@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 | HTML                                      | CSS                                      | JavaScript                                      | Java                                      | PHP                                      |
 |-------------------------------------------|------------------------------------------|-------------------------------------------------|-------------------------------------------|------------------------------------------|
 | ![HTML Logo](img/html.png)                | ![CSS Logo](img/css.png)                | ![JavaScript Logo](img/js.png)                 | ![Java Logo](img/java.png)                | ![PHP Logo](img/php.png)                |
